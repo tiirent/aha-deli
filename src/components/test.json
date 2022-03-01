@@ -1,0 +1,148 @@
+{
+    "id": "prod_31q0o3AKBlDdjR",
+    "created": 1622440225,
+    "updated": 1646121509,
+    "active": true,
+    "permalink": "QtBJi6",
+    "name": "Slacks",
+    "description": "<p>some pants</p>",
+    "price": {
+        "raw": 19,
+        "formatted": "19.00",
+        "formatted_with_symbol": "$19.00",
+        "formatted_with_code": "19.00 USD"
+    },
+    "inventory": {
+        "managed": true,
+        "available": 8
+    },
+    "sku": "ste",
+    "sort_order": 0,
+    "seo": {
+        "title": null,
+        "description": null
+    },
+    "thank_you_url": null,
+    "meta": null,
+    "conditionals": {
+        "is_active": true,
+        "is_tax_exempt": false,
+        "is_pay_what_you_want": false,
+        "is_inventory_managed": true,
+        "is_sold_out": false,
+        "has_digital_delivery": false,
+        "has_physical_delivery": true,
+        "has_images": true,
+        "collects_fullname": true,
+        "collects_shipping_address": true,
+        "collects_billing_address": true,
+        "collects_extra_fields": false,
+        "has_video": false,
+        "has_rich_embed": false
+    },
+    "is": {
+        "active": true,
+        "tax_exempt": false,
+        "pay_what_you_want": false,
+        "inventory_managed": true,
+        "sold_out": false
+    },
+    "has": {
+        "digital_delivery": false,
+        "physical_delivery": true,
+        "images": true
+    },
+    "collects": {
+        "fullname": true,
+        "shipping_address": true,
+        "billing_address": true,
+        "extra_fields": false
+    },
+    "checkout_url": {
+        "checkout": "https://checkout.chec.io/QtBJi6?checkout=true",
+        "display": "https://checkout.chec.io/QtBJi6"
+    },
+    "media": {
+        "type": "image",
+        "source": "https://cdn.chec.io/merchants/28223/assets/F7uH9fzFfkxr4u5L|boathouse-men-s-gore-tex-pants-16593522098266_1200x1200.webp",
+        "asset_id": "ast_N7GKwbaONQl3EX"
+    },
+    "extra_fields": [],
+    "variant_groups": [
+        {
+            "id": "vgrp_L1vOoZr03oRa8Z",
+            "name": "Size",
+            "meta": null,
+            "created": 1646121509,
+            "updated": 1646121509,
+            "options": [
+                {
+                    "id": "optn_QG375vRBbR5rMO",
+                    "name": "Small",
+                    "price": {
+                        "raw": 0,
+                        "formatted": "0.00",
+                        "formatted_with_symbol": "$0.00",
+                        "formatted_with_code": "0.00 USD"
+                    },
+                    "assets": [],
+                    "meta": null,
+                    "created": 1646121509,
+                    "updated": 1646121513
+                },
+                {
+                    "id": "optn_0egY5eBPbMl3Qn",
+                    "name": "Large",
+                    "price": {
+                        "raw": 0,
+                        "formatted": "0.00",
+                        "formatted_with_symbol": "$0.00",
+                        "formatted_with_code": "0.00 USD"
+                    },
+                    "assets": [],
+                    "meta": null,
+                    "created": 1646121509,
+                    "updated": 1646121513
+                }
+            ]
+        }
+    ],
+    "categories": [],
+    "assets": [
+        {
+            "id": "ast_N7GKwbaONQl3EX",
+            "url": "https://cdn.chec.io/merchants/28223/assets/F7uH9fzFfkxr4u5L|boathouse-men-s-gore-tex-pants-16593522098266_1200x1200.webp",
+            "description": null,
+            "is_image": true,
+            "filename": "boathouse-men-s-gore-tex-pants-16593522098266_1200x1200.webp",
+            "file_size": 20248,
+            "file_extension": "webp",
+            "image_dimensions": {
+                "width": 800,
+                "height": 1200
+            },
+            "meta": [],
+            "created_at": 1622440219,
+            "updated_at": 1622440220
+        }
+    ],
+    "image": {
+        "id": "ast_N7GKwbaONQl3EX",
+        "url": "https://cdn.chec.io/merchants/28223/assets/F7uH9fzFfkxr4u5L|boathouse-men-s-gore-tex-pants-16593522098266_1200x1200.webp",
+        "description": null,
+        "is_image": true,
+        "filename": "boathouse-men-s-gore-tex-pants-16593522098266_1200x1200.webp",
+        "file_size": 20248,
+        "file_extension": "webp",
+        "image_dimensions": {
+            "width": 800,
+            "height": 1200
+        },
+        "meta": [],
+        "created_at": 1622440219,
+        "updated_at": 1622440220
+    },
+    "related_products": [],
+    "attributes": [],
+    "variants": []
+}

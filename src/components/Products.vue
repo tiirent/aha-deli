@@ -1,5 +1,5 @@
 <template>
-  <div class="w-100">
+  <div class="w-100" style="margin-top:20rem">
     <template v-if="products.length">
       <ProductDetail
         v-for="(product, id) in productsReversed" :key="id"

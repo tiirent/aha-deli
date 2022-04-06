@@ -1,0 +1,42 @@
+$font-roboto: 'Roboto',
+'Indie Flower',
+sans-serif;
+
+.font-roboto {
+    font-family: $font-roboto;
+}
+
+.medium-text {
+    @extend .font-roboto !optional;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 0.70rem;
+    line-height: 0.80rem;
+    letter-spacing: 0.13rem;
+}
+
+.hero-text {
+    @extend .font-roboto !optional;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20rem;
+    line-height: 10rem;
+    letter-spacing: 1.2rem;
+    opacity: 0.7;
+}
+
+.large-title-text {
+    @extend .font-roboto, .tracked-tight !optional;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 5.5rem;
+    line-height: 89%;
+}
+
+.medium-body-text {
+    @extend .font-roboto, .tracked-tight !optional;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 1.5rem;
+    line-height: 1.8rem;
+}
